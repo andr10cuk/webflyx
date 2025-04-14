@@ -1,0 +1,2 @@
+Ovo je moj prvi git file koji ce biti commit-ovan.
+Srecan sam sto cu nauciti nesto novo danas!!!
