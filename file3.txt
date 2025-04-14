@@ -1,0 +1,3 @@
+Naravano da sam za, kakvo je to pitanje.
+Danas cemo da naucimo Git i GitHub!!!
+Ucimo Git i zato cemo malo da promenimo ovaj fajl da bismo videli kako se Git ponasa.
